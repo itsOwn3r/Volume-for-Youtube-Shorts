@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "Volume for Shorts",
+    "version": "1.0",
+    "description": "This simple extension lets you change the volume of Youtube Shorts.",
+    "background": {
+        "js": "js/background.js"
+    },
+    "host_permissions": ["*://www.youtube.com/shorts/*"],
+    "permissions": [
+        "tabs",
+        "activeTab",
+        "declarativeContent",
+        "scripting"
+    ],
+    "icons": {
+        "16": "images/icon.png",
+        "32": "images/icon.png",
+        "48": "images/icon.png",
+        "128": "images/icon.png"
+    },
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "This simple extension lets you change the volume of Youtube Shorts."
+    }
+}
