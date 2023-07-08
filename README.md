@@ -5,5 +5,5 @@
 
 
  # How to use?
- Download and Extract the files, Go to Google Chrome' Extentions (chrome://extensions/). Enable Developer mode. Click on Load unpacked and select the folder where you extracted the file! 
+ Download and Extract the files, Go to Google Chrome's Extentions page (chrome://extensions/). Enable Developer mode. Click on Load unpacked and select the folder where you extracted the file! 
  Enjoy ^_^
